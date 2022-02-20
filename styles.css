@@ -1,0 +1,50 @@
+body{
+    background-color: #242526;
+    color: white;
+    
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 25px;
+    line-height: 130%;
+    
+    
+}
+
+h2, h3{
+    color: aqua;
+    
+}
+
+.foot{
+    text-align: center;
+    padding: 100px;
+    text-decoration: none;
+}
+
+.published{
+    font-size: 12px;
+
+}
+
+
+
+ul{
+    list-style: none; 
+    text-align: right; 
+    word-spacing: 30px;
+    text-decoration: none;
+    
+}
+
+.nav li{
+    display: inline;
+    text-decoration: none;
+   
+    
+}
+
+.bloglist{
+    color: white;
+}
+
